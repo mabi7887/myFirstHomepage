@@ -1,6 +1,18 @@
+@import "bootstrap.css";
+
 header {
-	background:yellow;
+	text-align:center;
 }
-footer {
-	background:red;
+
+nav {
+	text-align:center;
+}
+
+.nav-pills > li {
+	float:none; 
+	display:inline-block;	
+}
+
+.nav-pills {
+	text-align:center;
 }
